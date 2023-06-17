@@ -19,5 +19,6 @@ This project is a website that showcases various clubs at a university, allowing
 - CSS3
 - JavaScript
 - Bootstrap
+- React.js
 
         
