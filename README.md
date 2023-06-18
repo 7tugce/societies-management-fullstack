@@ -11,9 +11,19 @@ This project is a website that showcases various clubs at a university, allowing
 -  Club listing: The website displays a list of all available clubs.
 -  Club details: Users can view the details of a selected club, learn about the club, and access information about events and activities.
 - Application system: Students can fill out and submit an application form through the website to apply for clubs.
-## Tech
+# Tech
+
+## Backend Tech
+
+- Java 11
+- Spring Boot
+- Spring Security
+- Modelmapper
+- Lombok
+- PostgreSQL
 
 
+## Frontend Tech
 
 - HTML5
 - CSS3
